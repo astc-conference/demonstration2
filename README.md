@@ -1,2 +1,2 @@
-# demonstration2
-Repo for demo 2
+# ASTC Presentation
+Repository for demo 2.
